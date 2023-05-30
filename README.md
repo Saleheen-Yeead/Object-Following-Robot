@@ -1,5 +1,6 @@
 # Object-Following-Robot
 A robot that follows object infront of it while avoiding others. The robot is shown below
+
 ![](Object Following Robot.png)
 
 Figure: Object following robot
@@ -21,6 +22,7 @@ The sensors and componenets used for this robot are :
 * Jumper wire
 
 The sensors are marked in the following figure:
+
 ![](sensors and servo motors.png)
 
 Figure: Sensors used in the robot

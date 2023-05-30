@@ -20,6 +20,7 @@ The sensors and componenets used for this robot are :
 * Servo motor
 * Wheels
 * Jumper wire
+* magnet
 
 The sensors are marked in the following figure:
 

@@ -47,7 +47,7 @@ The circuit of the system is shown in the following figure:
 
 <i>Neck Rotation:</i> A servo motor is used to rotate the neck of the car
 
-
+This project was completed by S.M. Saleheen Osman Yeead, Md. Jariful Haque, Md. Isharul Haque and Dipta Akash Roy.
 
 
 

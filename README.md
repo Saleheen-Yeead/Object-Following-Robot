@@ -1,9 +1,9 @@
 # Object-Following-Robot
 A robot that follows object infront of it while avoiding others. The robot is shown below
 
-![](Object Following Robot.png)
+![](ObjectFollowingRobot.png)
 
-Figure: Object following robot
+<i>Figure: Object following robot</i>
 
 The object can follow objects in front of it. The demo video link: https://www.youtube.com/shorts/12ys0GQt_b4
 
@@ -16,7 +16,7 @@ The sensors and componenets used for this robot are :
 * Li-Po battery
 * Arduino Uno
 * L298N motor driver
-* Breadboar
+* Breadboard
 * Servo motor
 * Wheels
 * Jumper wire
@@ -24,16 +24,16 @@ The sensors and componenets used for this robot are :
 
 The sensors are marked in the following figure:
 
-![](sensors and servo motors.png)
+![](sensorsandservomotors.png)
 
-Figure: Sensors used in the robot
+<i>Figure: Sensors used in the robot</i>
 
 
 The circuit of the system is shown in the following figure:
 
 ![](circuit.png)
 
-Figure: Circuit of system
+<i>Figure: Circuit of system</i>
 
 
 
